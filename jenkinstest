@@ -6,7 +6,8 @@ pipeline {
          steps {
             git 'https://github.com/vgddamedi/Hello'
             echo 'code has been checkout sucessfully'
-         }
+ echo 'code has been updted in test branch sucessfully'       
+  }
       }
    }
 }
