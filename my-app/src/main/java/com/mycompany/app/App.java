@@ -14,6 +14,7 @@ public class App
         Object myObject = null;
         /**
          * Checker prevents this from compiling...
+         *
          */
 //        System.out.println("myObject: " + myObject.toString());
         /**
