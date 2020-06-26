@@ -1,6 +1,6 @@
 pipeline {
    agent any
-
+//changed the code on master 
    stages {
       stage('code checkout') {
          steps {
